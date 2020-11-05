@@ -1,0 +1,9 @@
+#box {
+  background-color: pink;
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  border: solid violet 25px;
+  
+}
+
